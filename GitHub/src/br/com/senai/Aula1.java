@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
 public class Aula1 {
 	
 	static String msg = "Bem vindo ao GitHub";
-	static String meuNome = "Téo";
+	static String meuNome = "Téo 2016";
 
 	public static void main(String[] args) {		
 		JOptionPane.showMessageDialog(null,msg);
