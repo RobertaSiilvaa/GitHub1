@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 public class Aula1 {
 	
-	static String msg = "Bem vindo ao GitHub ";
+	static String msg = "Bem vindo";
 	static String meuNome = "SENAI";
 
 	public static void main(String[] args) {		
