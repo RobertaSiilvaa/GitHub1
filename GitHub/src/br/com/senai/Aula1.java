@@ -10,13 +10,5 @@ public class Aula1 {
 	public static void main(String[] args) {		
 		JOptionPane.showMessageDialog(null,msg);
 	}
-	
-	static void trocaMsg(){
-		msg = JOptionPane.showInputDialog("Entre com uma nova mensagem ");
-	}
-	
-	static void qualSeuNome(){
-		JOptionPane.showMessageDialog(null,meuNome);
-	}
 
 }
