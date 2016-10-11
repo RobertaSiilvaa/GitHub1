@@ -12,7 +12,7 @@ public class Aula1 {
 	}
 	
 	
-	static public testeOnline(){
+	static public void testeOnline(){
 		System.out.print("aaaa");
 	}
 	
