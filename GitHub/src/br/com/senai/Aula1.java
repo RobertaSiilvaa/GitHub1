@@ -14,6 +14,7 @@ public class Aula1 {
 	
 	static public void testeOnline(){
 		System.out.print("aaaa");
+		System.out.print("HELLO WORLD");
 	}
 	
 
